@@ -1,0 +1,86 @@
+body
+{
+    text-align: center;
+    background-color: hsl(30, 38%, 92%);
+    font-family:Arial, Helvetica, sans-serif;
+}
+img
+{
+    width: 330px;
+    height: 500px;
+    margin: auto;
+    float: left;
+    padding-right: 30px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.perfume
+{
+    padding-top: 30px;
+    letter-spacing: 3px;
+    text-align: left;
+}
+.pname
+{
+    color: #000000;
+}
+.maindiv
+{
+ color: hsl(228, 12%, 48%);
+ height: 500px;
+ width: 650px;
+ margin: 250px auto auto auto;
+ background-color: white;
+ border-radius: 15px;
+ padding-right: 15px;
+}
+.price
+{
+    color: #68B984;
+
+    display: inline-block;
+    margin:20px 10px;
+    text-align: left;
+}
+.oldprice
+{
+    display: inline-block;
+}
+.button {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FBFFFC;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 21px;
+    background-color: #055831;
+    border: solid #055831 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    margin: 45px auto;
+ }
+ 
+ .button:hover {
+    background: #000000;
+    border: solid #000000 1px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    width: 200px;
+ }
+ p
+ {
+    text-align: left;
+    font-size: 20px;
+ }
+ h1
+ {
+    text-align: left;
+ }
